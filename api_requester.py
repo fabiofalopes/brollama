@@ -22,7 +22,7 @@ def make_api_request(model, prompt):
     #print("\n\nFull text:\n", text)        
     return response
 
-#model = "orca-mini" #3B model
+# model = "orca-mini" #3B model
 model = "llama2-uncensored" #7B model
 prompt = ""
 
